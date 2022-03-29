@@ -23,7 +23,7 @@ def read(*names, **kwargs):
 
 setup(
     name="simplify-docx",
-    version="0.1.1",
+    version="0.1.2",
     description="A utility for simplifying python-docx document objects",
     long_description="%s\n%s"
     % (
